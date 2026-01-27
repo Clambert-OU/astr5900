@@ -1,7 +1,12 @@
+(cals, protein, carbs, fat)
+
 # Meal 1
+
+Bagel (290cal, 9g, 61g, 0.5g)
+Greek Yogurt (60cal, 12g, 5g, 0g)
 
 # Meal 2
 
 # Meal 3
 
-# TOTAL (cals, protein, carbs, fat)
+# TOTAL NUTRIENTS
