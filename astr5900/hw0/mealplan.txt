@@ -2,7 +2,7 @@
 
 # Meal 1
 
-Bagel (290cal, 9g, 61g, 0.5g)
+Bagel (290cal, 9g, 61g, 1g)
 Greek Yogurt (60cal, 12g, 5g, 0g)
 
 # Meal 2
@@ -19,3 +19,6 @@ Greek Yogurt (60cal, 12g, 5g, 0g)
 1.5 scoops Protein Powder (210cal, 40g, 5g, 5g)
 
 # TOTAL NUTRIENTS
+
+(2485cal, 223g, 193g, 86g)
+
